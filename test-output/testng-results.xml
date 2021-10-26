@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57" started-at="2021-10-24T07:49:16Z" finished-at="2021-10-24T07:49:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57" started-at="2021-10-24T07:49:16Z" finished-at="2021-10-24T07:49:16Z">
+      <class name="compackage.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:compackage.DemoTest@4c6e276e]" name="div" duration-ms="12" started-at="2021-10-24T13:19:16Z" finished-at="2021-10-24T13:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:compackage.DemoTest@4c6e276e]" name="mul" duration-ms="0" started-at="2021-10-24T13:19:16Z" finished-at="2021-10-24T13:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:compackage.DemoTest@4c6e276e]" name="sub" duration-ms="1" started-at="2021-10-24T13:19:16Z" finished-at="2021-10-24T13:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:compackage.DemoTest@4c6e276e]" name="sum" duration-ms="1" started-at="2021-10-24T13:19:16Z" finished-at="2021-10-24T13:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- compackage.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

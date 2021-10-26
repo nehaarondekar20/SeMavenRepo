@@ -1,0 +1,9 @@
+<suite name="Test maven Suite">
+<test name="Test maven Testing">
+<classes>
+<class name="compackage.DemoTest"></class>
+<class name="compackage.DemoTest1"></class>
+<class name="compackage.DemoTest2"></class>
+</classes>
+</test>
+</suite>
