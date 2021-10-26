@@ -10,7 +10,9 @@ public class DemoTest{
 		System.out.println("SUM");
 		int a=10;
 		int b=20;
+		String name="Neha";
 		Assert.assertEquals(30, a+b);
+		System.out.printf("Project is created by ", name);
 	}
 	
 	@Test
